@@ -13,6 +13,8 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Researcher Resources - How to become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102)
 - [Bug Bounties 101](https://whitton.io/articles/bug-bounties-101-getting-started/)
 - [The life of a bug bounty hunter](http://www.alphr.com/features/378577/q-a-the-life-of-a-bug-bounty-hunter)
+- [Awsome list of bugbounty cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet)
+- [Getting Started - Bug Bounty Hunter Methodology](https://blog.bugcrowd.com/getting-started-bug-bounty-hunter-methodology)
 
 ### Write Ups & Authors
 - [sakurity.com/blog](http://sakurity.com/blog)  -  by [Egor Homakov](https://twitter.com/homakov)
@@ -34,6 +36,8 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [secinfinity.net](http://www.secinfinity.net/)  -  by Prakash Sharma
 - [websecuritylog.com](http://www.websecuritylog.com/)  -  by [jitendra jaiswal](https://twitter.com/jeetjaiswal22)
 - [medium.com/@ajdumanhug](https://medium.com/@ajdumanhug) - by [Allan Jay Dumanhug](https://www.twitter.com/ajdumanhug)
+- [Web Hacking 101](https://leanpub.com/web-hacking-101) - by [Peter Yaworski](https://twitter.com/yaworsk)
+
 
 ### Platforms
 - [HackerOne](https://hackerone.com/)
@@ -44,6 +48,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Coder Bounty](http://www.coderbounty.com/)
 - [FreedomSponsors](https://freedomsponsors.org/)
 - [FOSS Factory](http://www.fossfactory.org/)
+- [Synack](https://www.synack.com/)
 
 ### Available Programs
 - [123Contact Form](http://www.123contactform.com/security-acknowledgements.htm)
@@ -266,6 +271,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Librato](mailto:security@librato.com)
 - [LibSass](https://hackerone.com/libsass)
 - [Liferay](mailto:security@liferay.com)
+- [Line](https://bugbounty.linecorp.com/en/)
 - [LinkedIn](mailto:security@linkedin.com)
 - [LiveEnsure](http://www.liveensure.com/contact.php)
 - [LocalBitcoins](https://cobalt.io/localbitcoins)
@@ -326,6 +332,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Oracle](mailto:secalert_us@oracle.com)
 - [ownCloud](https://hackerone.com/owncloud)
 - [PagerDuty](mailto:security@pagerduty.com)
+- [Panasonic Avionics](https://hackerone.com/panasonic-aero)
 - [Pantheon](https://bugcrowd.com/pantheon)
 - [Panzura](mailto:security@panzura.com)
 - [Paragon Initiative Enterprises](https://hackerone.com/paragonie)
@@ -438,6 +445,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Volusion](https://bugcrowd.com/volusion)
 - [VPNSox](https://cobalt.io/vpnsox)
 - [vulners.com](https://hackerone.com/vulnerscom)
+- [Vultr](https://www.vultr.com/bug-bounty/)
 - [Webconverger](mailto:security@webconverger.com)
 - [Websecurify](http://campaigns.websecurify.com/money-for-bugs/#contact)
 - [Weebly](https://cobalt.io/weebly)
@@ -463,6 +471,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Zetetic](mailto:support@zetetic.net)
 - [Ziggo](mailto:security@ziggo.nl)
 - [Zimbra](mailto:security@zimbra.com)
+- [Zoho](https://bugbounty.zoho.com/bb/info) 
 - [Zomato](https://hackerone.com/zomato)
 - [Zopim](https://hackerone.com/zopim)
 - [Zynga](mailto:whitehat@zynga.com)
